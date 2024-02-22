@@ -1,5 +1,5 @@
 # LetsGrowMore-Internship
-I was selected as a Data Science Intern at LetsGrowMore company.
+I was selected as a Data Science Intern at LetsGrowMore [ September 2021 - October 2021].
 
 In this 1 month Internship I have completed Three Tasks.
 
